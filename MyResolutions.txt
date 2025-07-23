@@ -1,101 +1,166 @@
-📆 ROADMAP BULANAN (Agustus 2025 – Desember 2026)
-Target: Fokus membangun pondasi pengetahuan Web2 ke Web3 untuk persiapan penulisan ilmiah & skripsi
+# 🚀 Roadmap Upskill Web2 ke Web3 (2025–2030)
 
-✅ 2025
-Agustus 2025
+> Target utama: Fokus membangun pondasi pengetahuan dari Web2 ke Web3 untuk persiapan penulisan ilmiah & skripsi, lalu lanjut ke karier berpenghasilan tetap.
+
+---
+
+## 📆 ROADMAP BULANAN (Agustus 2025 – Desember 2026)
+
+### ✅ 2025
+
+#### Agustus 2025
 - Pelajari ulang HTML & CSS dasar (struktur, layout, responsif)
-- Mulai JavaScript dasar (variabel, fungsi, operator, kondisi)
- 🎯 Milestone: Portofolio 1 halaman HTML sederhana
+- Mulai JavaScript dasar (variabel, fungsi, operator, kondisi)  
+🎯 **Milestone**: Portofolio 1 halaman HTML sederhana
 
-
-September 2025
+#### September 2025
 - DOM manipulation & event handling di JavaScript
-- Belajar Git & GitHub dasar (push/pull/commit)
- 🎯 Milestone: Upload 3 mini project ke GitHub
+- Belajar Git & GitHub dasar (push/pull/commit)  
+🎯 **Milestone**: Upload 3 mini project ke GitHub
 
-
-Oktober 2025
+#### Oktober 2025
 - Framework CSS: Bootstrap atau Tailwind
-- JavaScript ES6: arrow function, template string
- 🎯 Milestone: Buat 1 landing page interaktif
+- JavaScript ES6: arrow function, template string  
+🎯 **Milestone**: Buat 1 landing page interaktif
 
-
-November 2025
+#### November 2025
 - Dasar UI/UX: prinsip desain, wireframing (Figma)
-- Validasi form & interaksi user interface
- 🎯 Milestone: Buat wireframe untuk proyek pribadi
+- Validasi form & interaksi user interface  
+🎯 **Milestone**: Buat wireframe untuk proyek pribadi
 
-
-Desember 2025
+#### Desember 2025
 - Review HTML/CSS/JS yang sudah dipelajari
-- Mulai backend dasar: Node.js/Firebase intro
- 🎯 Milestone: Draft ide proyek akhir semester
+- Mulai backend dasar: Node.js/Firebase intro  
+🎯 **Milestone**: Draft ide proyek akhir semester
 
-✅ 2026
-Januari 2026
+---
+
+### ✅ 2026
+
+#### Januari 2026
 - JavaScript lanjutan: async/await, callback, promise
-- Mulai React dasar (JSX, komponen, props/state)
- 🎯 Milestone: Buat mini proyek React (counter atau todo list)
+- Mulai React dasar (JSX, komponen, props/state)  
+🎯 **Milestone**: Buat mini proyek React (counter atau todo list)
 
-Februari 2026
+#### Februari 2026
 - React Hooks dasar: useState, useEffect
-- Konsumsi REST API: fetch atau Axios
- 🎯 Milestone: Integrasi API sederhana ke aplikasi React
+- Konsumsi REST API: fetch atau Axios  
+🎯 **Milestone**: Integrasi API sederhana ke aplikasi React
 
-Maret 2026
+#### Maret 2026
 - Routing (React Router) & state management ringan
-- Unit Testing dasar (Jest, testing-library)
- 🎯 Milestone: Deploy project ke Netlify/Vercel
+- Unit Testing dasar (Jest, testing-library)  
+🎯 **Milestone**: Deploy project ke Netlify/Vercel
 
-April 2026
+#### April 2026
 - Backend: Node.js + Express (CRUD API)
-- Database NoSQL: Firebase atau MongoDB dasar
- 🎯 Milestone: Buat mini full-stack app (React + Express)
+- Database NoSQL: Firebase atau MongoDB dasar  
+🎯 **Milestone**: Buat mini full-stack app (React + Express)
 
-Mei 2026
+#### Mei 2026
 - Belajar TypeScript dasar untuk frontend
-- Kenali basic web security (CORS, XSS)
- 🎯 Milestone: Refactor satu proyek React ke TypeScript
+- Kenali basic web security (CORS, XSS)  
+🎯 **Milestone**: Refactor satu proyek React ke TypeScript
 
-Juni 2026
+#### Juni 2026
 - Belajar CI/CD GitHub Actions (auto-deploy)
-- Optimasi performa web (lazy loading, bundling)
- 🎯 Milestone: Setup deploy otomatis dari GitHub
+- Optimasi performa web (lazy loading, bundling)  
+🎯 **Milestone**: Setup deploy otomatis dari GitHub
 
-📚 Semester 4 (Juli – Desember 2026)
-Juli 2026
+---
+
+### 📚 Semester 4 (Juli – Desember 2026)
+
+#### Juli 2026
 - GraphQL dasar: query, mutation, resolvers
-- Pengenalan serverless (Vercel Functions/Firebase)
- 🎯 Milestone: Buat endpoint sederhana pakai serverless
+- Pengenalan serverless (Vercel Functions/Firebase)  
+🎯 **Milestone**: Buat endpoint sederhana pakai serverless
 
-Agustus 2026
-UI/UX lanjut: prototyping dan user testing
-PWA (Progressive Web App) dasar
- 🎯 Milestone: Uji coba PWA di Chrome/Edge
+#### Agustus 2026
+- UI/UX lanjut: prototyping dan user testing
+- PWA (Progressive Web App) dasar  
+🎯 **Milestone**: Uji coba PWA di Chrome/Edge
 
-September 2026
+#### September 2026
 - Mobile Web Performance & responsive testing
-- Aksesibilitas Web (WCAG, ARIA roles)
- 🎯 Milestone: Audit dan perbaiki aksesibilitas project
+- Aksesibilitas Web (WCAG, ARIA roles)  
+🎯 **Milestone**: Audit dan perbaiki aksesibilitas project
 
-Oktober 2026
+#### Oktober 2026
 - Web3 intro: Blockchain & konsep dasar smart contract
-- Pelajari dasar Solidity & Truffle setup
- 🎯 Milestone: Deploy smart contract dummy ke testnet
+- Pelajari dasar Solidity & Truffle setup  
+🎯 **Milestone**: Deploy smart contract dummy ke testnet
 
-November 2026
+#### November 2026
 - Integrasi Web3.js / Ethers.js ke React
-- Pengenalan IPFS dan storage Web3
- 🎯 Milestone: Buat mini DApp (mint token dummy)
+- Pengenalan IPFS dan storage Web3  
+🎯 **Milestone**: Buat mini DApp (mint token dummy)
 
-Desember 2026
+#### Desember 2026
 - Review semua materi Web2 & Web3
-- Susun rencana untuk penulisan ilmiah semester 5
- 🎯 Milestone: Proposal topik ilmiah selesai
+- Susun rencana untuk penulisan ilmiah semester 5  
+🎯 **Milestone**: Proposal topik ilmiah selesai
 
-🧠 Catatan:
-Bisa gunakan FreeCodeCamp, MDN, Figma, GitHub, Netlify, dan Discord komunitas untuk belajar
-Usahakan buat catatan belajar di Notion atau Google Docs
-Cukup 1–2 jam per hari, konsisten lebih penting daripada cepat
+---
 
+## 📆 ROADMAP TAHUNAN (2027–2030)
 
+### 🧠 2027
+- Fokus memperkuat dasar Web3 & kontribusi proyek kecil
+- Bangun habit nulis dokumentasi dan technical writing
+- Ikut bootcamp/pelatihan untuk pengayaan
+
+---
+
+### 🗓️ 2028
+
+#### Januari – Juni
+- Bangun sistem manajemen belajar dan proyek pribadi
+- Eksplor Web3:
+  - Konsep blockchain
+  - Smart contract
+  - Ethereum, Metamask, Remix
+
+#### Juli – Desember
+- Buat NFT dummy di testnet (Sepolia)
+- Pelajari Solidity dasar
+- Ikuti komunitas Web3 (BuildWithAngga, LearnWeb3 DAO, DappCamp)
+
+---
+
+### 🗓️ 2029
+
+#### Januari – Juni
+- Build mini dApp (decentralized app)
+- Pelajari konsep keamanan Web & blockchain
+- Mulai pelajari cara riset proyek Web3 & DAO
+
+#### Juli – Desember
+- Ikut kontribusi ke proyek Web3 open source
+- Bangun branding GitHub & LinkedIn profesional
+- Review dan update portfolio pribadi (Web2 dan Web3)
+
+---
+
+### 🗓️ 2030
+
+#### Januari – Juni
+- Siapkan profil untuk job/intern Web3 atau Web2 senior
+- Ikut proyek freelance atau DAO
+- Latihan wawancara (mock interview) dan problem solving
+
+#### Juli – Desember
+- Target apply posisi berpenghasilan tetap
+- Review semua pencapaian:
+  - Pengetahuan
+  - Portofolio
+  - Network
+  - Aset & karier
+
+---
+
+## 🧠 Catatan Tambahan
+
+- Gunakan platform belajar seperti: FreeCodeCamp, MDN, Figma, GitHub, Netlify, Discord
+- Buat catatan belajar di Notion atau Google Docs
+- Waktu belajar fleksibel (1–2 jam/hari), konsistensi lebih penting daripada kecepatan
