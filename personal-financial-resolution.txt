@@ -56,6 +56,10 @@
 - belajar propeti
 - belajar bonds
 
+### aset class
+- belajar cryptocurenncy
+- belajar saham
+
 ## 🧠 Prinsip Manajemen
 
 - Semua pemasukan langsung dibagi:
@@ -63,4 +67,3 @@
   - 20% → cashflow kebutuhan harian
 - Setiap upgrade (device, kursus) harus mendukung roadmap belajar
 - Tidak utang. Semua pembelian berbasis “punya dananya dulu”
-
