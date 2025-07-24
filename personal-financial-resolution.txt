@@ -5,9 +5,9 @@
 | 2025   | Bangun habit keuangan & belajar | Rp2 juta             | Rp3 juta               |
 | 2026   | Tambah dana darurat & skill     | Rp4 juta             | Rp10 juta              |
 | 2027   | Siap proyek kecil & freelance   | Rp6 juta             | Rp25 juta              |
-| 2028   | Mulai cari penghasilan tetap    | Rp8 juta             | Rp50 juta              |
-| 2029   | Bangun stabilitas penghasilan   | Rp10 juta            | Rp100 juta             |
-| 2030   | Capai kemandirian finansial     | Rp12 juta            | Rp350 juta             |
+| 2028   | Mulai cari penghasilan tetap    | Rp10 juta            | Rp50 juta              |
+| 2029   | Bangun stabilitas penghasilan   | Rp20 juta            | Rp100 juta             |
+| 2030   | Capai kemandirian finansial     | Rp80 juta            | Rp400 juta             |
 
 ---
 
