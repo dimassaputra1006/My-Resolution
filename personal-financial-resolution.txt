@@ -53,6 +53,9 @@
 
 ---
 
+### aset class
+- belajar cryptocurenncy
+
 ## 🧠 Prinsip Manajemen
 
 - Semua pemasukan langsung dibagi:
@@ -61,3 +64,4 @@
 - Setiap upgrade (device, kursus) harus mendukung roadmap belajar
 - Tidak utang. Semua pembelian berbasis “punya dananya dulu”
 - Gunakan catatan mingguan keuangan (bisa pakai Google Sheets atau aplikasi “AndroMoney” gratis)
+
