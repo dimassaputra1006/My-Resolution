@@ -52,6 +52,9 @@
 - Total aset (alat + dana darurat + edukasi): minimal Rp10 juta
 
 ---
+### aset class
+- belajar propeti
+- belajar bonds
 
 ### aset class
 - belajar cryptocurenncy
@@ -64,5 +67,3 @@
   - 20% → cashflow kebutuhan harian
 - Setiap upgrade (device, kursus) harus mendukung roadmap belajar
 - Tidak utang. Semua pembelian berbasis “punya dananya dulu”
-- Gunakan catatan mingguan keuangan (bisa pakai Google Sheets atau aplikasi “AndroMoney” gratis)
-
