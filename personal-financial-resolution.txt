@@ -52,9 +52,6 @@
 - Total aset (alat + dana darurat + edukasi): minimal Rp10 juta
 
 ---
-### aset class
-- belajar propeti
-- belajar bonds
 
 ### aset class
 - belajar cryptocurenncy
