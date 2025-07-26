@@ -9,7 +9,7 @@
 ### ✅ 2025
 
 #### Agustus 2025
-- Pelajari ulang HTML & CSS dasar (struktur, layout, responsif)
+- Pelajari ulang HTML & CSS dasar (struktur, layout, responsif) (done)
 - Mulai JavaScript dasar (variabel, fungsi, operator, kondisi)  
 🎯 **Milestone**: Portofolio 1 halaman HTML sederhana
 
