@@ -164,3 +164,62 @@
 - Gunakan platform belajar seperti: FreeCodeCamp, MDN, Figma, GitHub, Netlify, Discord
 - Buat catatan belajar di Notion atau Google Docs
 - Waktu belajar fleksibel (1–2 jam/hari), konsistensi lebih penting daripada kecepatan
+
+-----
+
+Berikut rangkuman fokus utama dan alur langkah yang harus kamu kerjakan sekarang, dalam format yang singkat dan mudah diikuti:
+
+1. Fokus Utama Saat Ini (Agustus–September 2025)
+Goal: Bangun fondasi teknis & dapat materi portofolio pertama
+Kode & Deploy Kontrak (Web3)
+
+
+Pelajari Solidity dari Metana (Tutorial Bahasa Indonesia)
+Buat dan deploy token ERC‑20 di BSC Testnet
+Bangun Chatbot AI (AI)
+Gunakan LobeChat tanpa coding untuk prototipe chatbot gizi
+Pastikan bisa coba live (misalnya di Telegram atau WhatsApp)
+Lab Keamanan Siber (Cybersecurity)
+Ikuti kursus “Dasar Keamanan Siber” di Dicoding
+Buat laporan audit sederhana untuk situs e‑commerce fiktif
+Lamaran & Networking (Freelance & Kampus)
+Kirim minimal 10 lamaran per minggu di Sribulancer + lowongan lab IT kampus
+DM minimal 1 tech lead per hari di LinkedIn
+
+
+
+2. Alur Kerja Harian (Contoh Jadwal)
+Waktu
+Aktivitas Utama
+04:30–06:00
+Subuh + coding kontrak ERC‑20
+08:30–11:30
+Bangun chatbot AI gizi
+13:00–15:30
+Lab keamanan Siber (Dicoding)
+16:00–18:00
+Lamar kerja & follow‑up (freelance + kampus)
+
+Ulangi siklus ini setiap hari libur.
+
+3. Setelah Portofolio Pertama Jadi
+Gabung Komunitas & Magang
+BlockSpace.ID, IndoNFT, MUGI 2025
+Lamar magang di Tokocrypto, Halodoc, Pintu, PwC IT Strategy
+Rutinitas Kuliah (Okt 2025 ke Depan)
+Manfaatkan waktu perpindahan kelas untuk belajar singkat (podcast & Duolingo)
+Sore/malam: kerja proyek 3×/minggu + CTF 2×/minggu
+Akhir pekan: freelance smart contract audits (target Rp500k–1M/minggu)
+
+
+
+4. Checklist Prioritas Minggu Ini
+Deploy minimal 1 kontrak ERC‑20 di testnet
+Selesai prototipe chatbot AI gizi (bisa diuji)
+Selesai modul pertama kursus Dicoding “Dasar Keamanan Siber”
+Kirim 10 lamaran freelance atau kampus, DM 7 tech lead
+
+
+
+Dengan mengikuti alur sederhana di atas, kamu langsung punya 3 proyek portofolio, mulai membangun jaringan, dan membuka peluang pendapatan freelance dalam 1–2 bulan ke depan. Semangat!
+
