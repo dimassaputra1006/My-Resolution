@@ -2,3 +2,9 @@ usahain keterima programmer psikologi atau aslab vm lepkom
 
 --- tugas
 bikin ml facerecognition
+
+--- materi 
+machine learning 
+java scripts
+git&githhub
+css
