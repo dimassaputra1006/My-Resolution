@@ -8,3 +8,4 @@ machine learning
 java scripts
 git&githhub
 css
+scientific computing with python
