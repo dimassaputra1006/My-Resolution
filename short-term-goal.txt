@@ -1,7 +1,7 @@
 usahain keterima programmer psikologi atau aslab vm lepkom
 
 --- tugas
-bikin ml facerecognition
+bikin ml facerecognition (besok harus mulai)
 
 --- materi 
 machine learning 
