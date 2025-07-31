@@ -2,6 +2,7 @@ usahain keterima programmer psikologi atau aslab vm lepkom
 
 --- tugas
 kelarin uas dlu 
+belajar dasar abis itu lanjut nyoba machine learnig target tanggal 10 udah ada kerangkanya
 bikin ml facerecognition (udah nyicil tapi masih rada gak jelas)
 
 --- materi 
