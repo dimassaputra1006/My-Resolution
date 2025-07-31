@@ -1,6 +1,7 @@
 usahain keterima programmer psikologi atau aslab vm lepkom
 
 --- tugas
+kelarin uas dlu 
 bikin ml facerecognition (udah nyicil tapi masih rada gak jelas)
 
 --- materi 
