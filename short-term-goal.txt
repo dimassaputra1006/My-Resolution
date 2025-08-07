@@ -4,6 +4,8 @@ fokus investasi leher ke atas  khususnya di web3
 --- tugas
 belajar dasar abis itu lanjut nyoba machine learnig target tanggal 10 udah ada kerangkanya
 bikin ml facerecognition (udah nyicil tapi masih rada gak jelas)
+nyoba bikin essai beasiswa malaka senin
+
 
 --- materi 
 machine learning 
