@@ -2,13 +2,11 @@ usahain keterima programmer psikologi atau aslab vm lepkom
 fokus investasi leher ke atas  khususnya di web3 
 
 --- tugas
-kelarin belajar git sebelum senin
 belajar dasar abis itu lanjut nyoba machine learnig target tanggal 10 udah ada kerangkanya
 bikin ml facerecognition (udah nyicil tapi masih rada gak jelas)
 
 --- materi 
 machine learning 
 java scripts
-git&githhub
 css
 scientific computing with python
