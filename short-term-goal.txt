@@ -12,3 +12,4 @@ machine learning
 java scripts
 css
 scientific computing with python
+ambil kurus dicoding ada di email 
